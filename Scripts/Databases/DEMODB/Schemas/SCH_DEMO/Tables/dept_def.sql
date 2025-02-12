@@ -5,4 +5,5 @@ CREATE OR REPLACE TABLE DEPT (
     LOCATION STRING NOT NULL
 );
 
+
 execute immediate from './dept_tbl_records_insert.sql';

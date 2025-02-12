@@ -10,3 +10,4 @@ INSERT INTO DEPT (DEPT_NAME, LOCATION) VALUES
     ('Legal', 'Boston'),
     ('R&D', 'Austin'),
     ('Administration', 'Miami');
+    
