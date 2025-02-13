@@ -1,5 +1,5 @@
 -- Insert 10 records into DEPT table
-INSERT INTO DEPT (DEPT_NAME, LOCATION) VALUES
+INSERT INTO SCH_DEMO.DEPT (DEPT_NAME, LOCATION) VALUES
     ('HR', 'New York'),
     ('Finance', 'Chicago'),
     ('IT', 'San Francisco'),
