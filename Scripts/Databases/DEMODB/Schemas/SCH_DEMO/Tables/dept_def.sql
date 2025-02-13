@@ -6,4 +6,4 @@ CREATE OR REPLACE TABLE DEPT (
 );
 
 
-execute immediate from './dept_tbl_records_insert.sql';
+EXECUTE IMMEDIATE FROM './dept_tbl_records_insert.sql';
